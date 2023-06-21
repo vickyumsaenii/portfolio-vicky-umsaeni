@@ -2,6 +2,13 @@
   padding-top: 6rem;
   background-color: #e2edff;
 }
+a {
+  color: #1C9C94;
+  text-decoration: none;
+}
+a:hover {
+  opacity: 0.5;
+}
 
 #projects {
   background-color: #e2edff;
